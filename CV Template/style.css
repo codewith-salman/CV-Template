@@ -1,0 +1,169 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(201, 234, 234, 0.582);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 65%;
+    background-color: rgb(253, 253, 253);
+    height: 100vh;
+    margin-top: 10px;
+    display: flex;
+}
+.left-side{
+    background-color: rgb(0, 52, 64);
+    width: 30%;
+    height: 100vh;
+    float: left;
+}
+.image-section{
+    background-color: rgb(0, 52, 64);
+    flex: 1;
+}
+.image-section p{
+    background-color: rgb(0, 52, 64);
+    color: white;
+    margin: 0 20px;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 21px;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white ;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.image-section span{
+    background-color: rgb(0, 52, 64);
+    color: white;
+    margin-left: 65px;
+    margin-top: 15px;
+}
+.image-section hr{
+    margin-top: 15px;
+    width: 75%;
+    margin-left: 30px;
+    border: 1.5px solid white;
+}
+.contact-info{
+    flex: 1;
+    background-color: rgb(0, 52, 64);
+    padding-top: 20px;
+}
+
+.contact-info h2{
+    font-size: 20px;
+    background-color: rgb(0, 52, 64);
+    color: white;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+.contact-info ul{
+    background-color: rgb(0, 52, 64);
+}
+.contact-info ul li{
+    margin-left: 25px;
+    padding-top: 5px;
+    background-color: rgb(0, 52, 64);
+    color: aliceblue;
+}
+.skills {
+    margin-left: 50px;
+     background-color: rgb(0, 52, 64);
+ }
+ .skills h2{
+     color: aliceblue;
+     background-color: rgb(0, 52, 64);
+     margin-top: 20px;
+     margin-left: 35px;
+ }
+ .skills hr{
+     margin-top: 15px;
+     width: 75%;
+     border: 1.5px solid white;
+ }
+ .skills ul li{
+     padding-top: 5px;
+     background-color: rgb(0, 52, 64);
+     color: aliceblue;
+ }
+ .skills ul{
+     background-color: rgb(0, 52, 64);
+     padding-top: 5px;
+ }
+.right{
+    float: left;
+    width:70%;
+    background-color: white;
+}
+ .right h2{
+    margin-left: 20px;
+    background-color: white;
+    color: rgb(36, 83, 103);
+    font-weight: bold;
+    font-size: 38px;
+    margin-top: 5px;
+ } 
+ .right p{
+    background-color: white;
+    margin-left: 22px;
+ }
+ .right hr{
+    width: 75%;
+    margin-left: 40px;
+    margin-top: 20px;
+    border: 2px solid rgb(36, 83, 103);
+ }
+ .right h3{
+    margin-left: 20px;
+    background-color: white;
+    color: rgb(36, 83, 103);
+    font-weight: bold;
+    font-size: 35px;
+    margin-top: 20px;
+ }
+ .right table{
+    background-color: white;
+    text-align: center;
+    margin-top: 20px;
+    width: 80%;
+    height: 200px;
+ }
+ .right, tr, th, thead, td,span{
+    background-color: white;
+ }
+ .right table tr .tab-sec-1 span{
+    color: rgb(36, 83, 103);
+    font-size: 18px;
+    font-weight: bold;
+ }
+ .right table thead th{
+    color: rgb(36, 83, 103);
+    font-weight: bold;
+ }
+ .right ul{
+    list-style-type: circle;
+    margin-left: 30px;
+    margin-top: 10px;
+    background-color: white;
+ }
+ .right ul li{
+    background-color: white;
+    display: inline-block;
+    margin-right: 20px;
+    font-size: 22px;
+ }
+
+
