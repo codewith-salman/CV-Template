@@ -23,7 +23,8 @@
 
 <img src="CV%20Template/image/screenshot.PNG" alt="Matric Result Card Screenshot" width="700"/>
 
-This is my third ever project in HTML and basic styling concepts, and I think in the future I can raise the bar...
+A clean, modern, and responsive resume (CV) template built with HTML and CSS.<br>
+    Perfect for showcasing your professional profile online.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -34,6 +35,7 @@ This is my third ever project in HTML and basic styling concepts, and I think in
 This section is about the technologies I have used in this project:
 
 * [HTML5](https://html5.org/)
+* [CSS3](https://css3.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
